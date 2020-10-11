@@ -1,0 +1,30 @@
+p.register{
+    color:red
+}
+.hob{
+    color:green
+}
+.gender{
+    color:skyblue
+}
+.password{
+    color:orangered
+}
+.con{
+    color:mediumpurple
+}
+*{
+    background-color: rgb(136, 247, 200);
+}
+a:active{
+color:blue
+}
+a:visited{
+    color:midnightblue
+}
+a:link{
+    color:wheat
+}
+a:hover{
+    color:goldenrod
+}

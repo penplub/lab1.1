@@ -1,0 +1,38 @@
+
+        h1, h3,  h6 {
+            font-family: sans-serif;
+            color: maroon;
+            border-bottom: lpx solid rgb(200, 200, 200);
+        }
+        p{
+            color: red;
+        }
+        div{
+            color: blue;
+        }
+        *{
+            border:1;
+        }
+        .bobo{
+            color:aqua
+        }
+        div.bobo{
+            color:pink
+        }
+        p.bobo{
+            color:green
+        }
+        p.bigtext{/*อาจใช้แค่ bigtext เฉยๆก็ได้ อาจใส่boboหน้า text แต่มันจะ run ตัวที่มาก่อน*/
+            color:brown }
+           #bobo{
+               color:red
+           }
+           div#bobo{
+               color:blue
+           }
+           p#bobo{
+               color:green
+           }
+           #bigtext{
+               color:orange
+           }
